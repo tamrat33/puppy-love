@@ -1,0 +1,64 @@
+ header{
+   background-color:#ff8523;
+    background-size:100%;
+ }
+
+
+.main_navigation > a{
+color:#eee;
+border-style:solid;
+margin-right: 0 40px 0 20px;
+padding:0 20px 0 20px;
+
+ h2{
+   color:red; 
+ }
+
+
+
+
+li{
+  font-weight: bold;
+}
+
+section,table,th,tr{
+  border:1px solid #1fabe5;
+}
+
+
+
+
+
+
+.name{
+  color: :#ff8523;
+}
+input.submit_button{
+  align-items: flex-start;
+      text-align: center;
+      cursor: default;
+      color:#1fabe5;
+      background-color:#1fabe5
+      box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray -#eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
